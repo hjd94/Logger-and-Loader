@@ -9,8 +9,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 
 
-URL = "https://consult.publicvoice.co.nz/S2/56/prototype8/"
-ID_NAME = "Q_LANDINGPAGE_TITLE"
+URL = ""
+ID_NAME = "" #This is a html element to find on the webpage
 TIMEFRAME = 15 #this is in Mins
 WAIT_TIME = 20 #this is in seconds
 
